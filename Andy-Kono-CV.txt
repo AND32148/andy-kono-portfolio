@@ -1,0 +1,35 @@
+ANDY KONO
+Aspiring AI Engineer | Software Developer
+Kumasi, Ghana
+
+PROFILE
+I'm an Artificial Intelligence student and aspiring software developer passionate about building innovative technology solutions. I enjoy programming, solving problems, exploring artificial intelligence and developing applications that address real-world challenges.
+
+EDUCATION
+BTech Artificial Intelligence
+Kumasi Technical University (KsTU), Ghana
+
+PROJECTS
+AlphaStores MVP
+An e-commerce and POS management system developed collaboratively with Basit.
+Technologies: PHP, MySQL, HTML, CSS, JavaScript
+GitHub: https://github.com/AND32148/AlphaStores-MVP
+
+StudyApp
+An educational application designed to help JHS and SHS students learn through notes, quizzes and AI-assisted learning.
+Status: Under development.
+
+Parkoso SHS Website
+A website project created for my former senior high school.
+
+SKILLS
+Programming: PHP, JavaScript, HTML, CSS
+Frontend: HTML5, CSS3, Vanilla JavaScript
+Backend & databases: PHP, MySQL
+Tools: Git, GitHub, VS Code
+Learning: Artificial intelligence, machine learning foundations, data
+
+CONTACT
+Email: andykono15@gmail.com
+GitHub: https://github.com/AND32148
+LinkedIn: https://www.linkedin.com/in/andykono
